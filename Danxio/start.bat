@@ -1,1 +1,0 @@
-start "" "C:\LOVE\love.exe" "%CD%" --console
