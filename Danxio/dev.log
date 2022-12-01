@@ -1,0 +1,42 @@
+Todo: 
+    - Physics 
+    - Animation 
+    - State System 
+    - Level Design 
+    - UI
+    - Enemies 
+    - Sleep System  
+    - Disable Movement-Inertia 
+    - Parallax 
+    - Game State Manager 
+    - Dynamic Lighting 
+    - Camera System 
+    - Spawn 
+    - Death Mechanics 
+
+BugList: 
+    - (Collider) Wall placement and size [PENDING]
+    - Jump due sidewall collision [FIXED]
+    - Camera Follow rendering not working [PENDING] 
+    - No collision at spikes [PENDING]
+    - Inertia [PENDING]
+
+Day1: 
+    - State System (Player) 
+    - Player Animation 
+    - UserInput (Player) 
+
+Day2: 
+    - Sleep System 
+    - Physics 
+    - Collision 
+
+Day3: 
+    - Accurate Collision Between walls
+
+Day4: 
+    - I procrasinated! :( 
+
+Day5: 
+    - Sounds 
+
